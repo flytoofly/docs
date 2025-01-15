@@ -1,0 +1,20 @@
+
+broker	消息中间件处理节点，一个broker就是一个kafka节点，多个broker构成一个kafka集群。
+topic	kafka根据消息进行分类，发布到kafka的每个消息都有一个对应的topic
+producer	消息生产（发布）者
+consumer	消息消费（订阅）者
+consumergroup-消息订阅集群，一个消息可以被多个consumergroup消费，但是一个consumergroup只有一个consumer可以消费消息。
+
+
+https://blog.csdn.net/weixin_50843918/article/details/128645949
+
+
+
+
+
+
+
+
+
+
+
